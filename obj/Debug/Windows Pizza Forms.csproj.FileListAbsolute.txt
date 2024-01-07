@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\Windows Pizza Forms\bin\Debug\Windows Pizza Forms.exe.config
+C:\Users\admin\source\repos\Windows Pizza Forms\bin\Debug\Windows Pizza Forms.exe
+C:\Users\admin\source\repos\Windows Pizza Forms\bin\Debug\Windows Pizza Forms.pdb
+C:\Users\admin\source\repos\Windows Pizza Forms\obj\Debug\Windows Pizza Forms.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Windows Pizza Forms\obj\Debug\Windows_Pizza_Forms.Form1.resources
+C:\Users\admin\source\repos\Windows Pizza Forms\obj\Debug\Windows_Pizza_Forms.Properties.Resources.resources
+C:\Users\admin\source\repos\Windows Pizza Forms\obj\Debug\Windows Pizza Forms.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Windows Pizza Forms\obj\Debug\Windows Pizza Forms.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Windows Pizza Forms\obj\Debug\Windows Pizza Forms.exe
+C:\Users\admin\source\repos\Windows Pizza Forms\obj\Debug\Windows Pizza Forms.pdb
